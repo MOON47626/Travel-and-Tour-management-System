@@ -1,4 +1,4 @@
-# Tour and Travel Management System
+# MOON Tour and Travel Management System
 
 Basic Demo Tour and Travel Management System built with python and Microsoft SQL Server Management Studio
 
